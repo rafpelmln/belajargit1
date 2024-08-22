@@ -1,0 +1,43 @@
+.jumbotron {
+    background-image: url(https://i.pinimg.com/736x/32/eb/e9/32ebe9a90e3a0f4963547e80512f8774.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #e2ffeb; 
+    padding-top: 6rem;
+}
+
+#tentang {
+    padding-bottom: 11em;
+}
+
+#projek {
+    margin-bottom: 2rem;
+    padding-top: 2rem;
+}
+
+#myproject {
+    background-color: #e2ffeb; 
+}
+
+#about h2 {
+    padding-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+#myproject h2 {
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
+
+#contact {
+    padding-top: 4rem;
+    margin-bottom: 9rem;
+}
+
+#contact h2 {
+    margin-bottom: 4rem;
+}
+
+footer p {
+    padding-top: 1rem;
+}
